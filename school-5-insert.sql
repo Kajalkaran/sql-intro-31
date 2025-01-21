@@ -4,7 +4,7 @@ INSERT INTO students(
     email
 )
 VALUES(
-    "Jane",
-    "Doe",
-    "jane@example.com"
+    "Janett",
+    "Duke",
+    "janet@example.com"
 );
